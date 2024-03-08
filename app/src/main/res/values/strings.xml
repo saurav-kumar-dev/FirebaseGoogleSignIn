@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">FirebaseGoogleSignIn</string>
     <string name="default_web_client_id">46536038229-t67hfavcgenhmtgqc9gqohisvjfs96og.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="other_category">Other Category</string>
 </resources>
